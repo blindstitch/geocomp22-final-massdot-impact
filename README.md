@@ -8,6 +8,8 @@ A full summary of the process and resulting maps is provided in the PDF.
 
 # MassDOT Impact Person Level Crash Data
 
+If you want to run these notebooks you must get the data from the MassDOT Impact portal first.
+
 ## Overview 
 
  - Crash incident data for 5.7 million individuals involved in crashes in MA, from 2002 to 2019
