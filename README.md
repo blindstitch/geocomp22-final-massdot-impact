@@ -1,3 +1,11 @@
+# Geocomputaion Spring 2022 Final Project
+
+This repository contains Jupyter notebooks of all data operations performed on the MassDOT Impact data set to create population density-normalized, per-year pedestrian crash counts for each Census Block Group in the state of Massachusetts.
+
+Data was then analyzed using ESRI ArcGIS Pro's Emerging Hot Spot Analysis tool, comparing differences between different forms of the data.
+
+A full summary of the process and resulting maps is provided in the PDF.
+
 # MassDOT Impact Person Level Crash Data
 
 ## Overview 
